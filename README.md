@@ -1,2 +1,2 @@
 # machine_learning
-some machine learning algorithm
+some machine learning algorithm demos
